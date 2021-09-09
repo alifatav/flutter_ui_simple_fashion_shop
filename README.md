@@ -4,10 +4,9 @@ Learn to make a fashion shop application using flutter :D
 
 ## Overview
 
-<img src="https://github.com/alifatav/flutter_ui_simple_fashion_shop/blob/master/overview_ss01.jpg?raw=true" width="250px"> <img src="https://github.com/alifatav/flutter_ui_simple_fashion_shop/blob/master/overview_ss02.jpg?raw=true" width="250px">
+<img src="https://github.com/alifatav/flutter_ui_simple_fashion_shop/blob/main/overview_ss01.jpg?raw=true" width="250px"> <img src="https://github.com/alifatav/flutter_ui_simple_fashion_shop/blob/main/overview_ss02.jpg?raw=true" width="250px">
 
-**Short video**
-
+https://user-images.githubusercontent.com/36532126/132671797-12b20c84-3c97-4561-ae0b-c46c1c49aee2.mp4
 
 **Package :**
 * flutter_svg: [link](https://pub.dev/packages/flutter_svg)
